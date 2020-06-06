@@ -1,0 +1,7 @@
+.vscode/
+node_modules/
+uploads/*
+!uploads/*.svg
+.DS_Store
+Thumbs.db
+*.sqlite
