@@ -9,11 +9,12 @@ Aplicação desenvolvida durante o Next Level Week
 # Tecnologias
 1. React
 2. React Native
-3. Express
-4. Expo
-5. MailComposer
-6. Leaflet
-7. Fonts Google
-8. Knex: SqLite
-9. Celebrate/Joi
-10. Dropzone
+3. TypeScript
+4. Express
+5. Expo
+6. MailComposer
+7. Leaflet
+8. Fonts Google
+9. Knex: SqLite
+10. Celebrate/Joi
+11. Dropzone
